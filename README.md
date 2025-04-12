@@ -27,3 +27,6 @@ Project #2
 - Open directory as an xcode project.
 - Click play to open the simulator.
 - Open the app and try it out!
+
+## My concept
+![Concept layout of Grocery List App](/project2_concept.jpg)
